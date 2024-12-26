@@ -1,0 +1,11 @@
+/* bugSolution.css */
+#myElement {
+  /* Use flexbox or grid to achieve the desired layout */
+  display: flex;
+  width: 100%;
+  margin-left: 200px;
+  /* Or alternatively */
+  /* display: grid; */
+  /* grid-column-gap: 200px; */
+}
+/* Other CSS for layout and styling as needed */
