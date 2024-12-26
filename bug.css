@@ -1,0 +1,1 @@
+The CSS property `calc()` is used incorrectly, resulting in unexpected behavior.  Specifically, the calculation within `calc()` attempts to subtract a percentage from a pixel value, which is not supported in all browsers and can lead to unexpected results or rendering errors. For example: `width: calc(100% - 200px);`
